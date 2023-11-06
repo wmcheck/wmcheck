@@ -42,12 +42,6 @@
 
 ## Трудовые будни
 
-[Учеба и места работы](experience.md)
-
-[Достижения на работе](progress.md)
-
-[Поощрения, сертификаты, свидетельства](promotions.md)
-
-## Стек разработки
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,js,ts,html,css,bootstrap,grafana,nodejs,express,vue,react,redux,php,mysql,postman,rabbitmq,md,nginx,ps,vscode&theme=light)](https://skillicons.dev)
+- [Учеба и места работы](experience.md)
+- [Достижения на работе](progress.md)
+- [Поощрения, сертификаты, свидетельства](promotions.md)
