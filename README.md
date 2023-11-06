@@ -1,14 +1,16 @@
-### Привет, я Алексей 👋
-
+### Привет, меня зовут Алексей 👋
 
 - 🌍 Я живу в Подмосковье.
 - ✉️ Связаться со мной можно по адресу <a href='mailto:ilasov.alexey@gmail.com'>ilasov.alexey@gmail.com</a> или <a href="https://t.me/wmcheck">@wmcheck</a>.
 - 🚀 Сейчас я работаю ....
 - 🧠 Я изучаю JavaScript, TypeScript
-- 🤝 Я открыт для сотрудничества в интересных проектах в качестве ,бэкенд-разработчика, фронтенд-разработчика, дизайнера или разработчика.
+- 🤝 Я открыт для сотрудничества в интересных проектах в качестве, бэкенд-разработчика, фронтенд-разработчика, дизайнера или разработчика.
 
 ## 🛠 Technical Stack
 
+## Навыки
+JS, TS, CSS, Delphi, PHP, SQL
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,js,ts,html,css,bootstrap,grafana,nodejs,express,vue,react,redux,php,mysql,postman,rabbitmq,md,nginx,ps,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 **wmcheck/wmcheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
