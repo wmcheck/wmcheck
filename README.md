@@ -9,9 +9,10 @@
 ## 🛠 Technical Stack
 
 ## Навыки
-JS, TS, CSS, Delphi, PHP, SQL
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,js,ts,html,css,bootstrap,grafana,nodejs,express,vue,react,redux,php,mysql,postman,rabbitmq,md,nginx,ps,vscode&theme=light)](https://skillicons.dev)
 
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,js,ts,html,css,bootstrap,grafana,nodejs,express,vue,react,redux,php,mysql,postman,rabbitmq,md,nginx,ps,vscode&theme=light)](https://skillicons.dev)
+</p>
 <!--
 **wmcheck/wmcheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
