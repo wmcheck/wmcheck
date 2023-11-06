@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=" ./img/header.jpg" width="100%"/>
+  <img src="./img/header.jpg" width="100%"/>
 </div>
 
 # Привет, меня зовут Илясов Алексей 👋
