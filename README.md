@@ -27,10 +27,6 @@
 
 ## [Достижения](progress.md)
 
-## 🛠 Навыки
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,js,ts,html,css,bootstrap,grafana,nodejs,express,vue,react,redux,php,mysql,postman,rabbitmq,md,nginx,ps,vscode&theme=light)](https://skillicons.dev)
-
 ## Интересные(?) факты обо мне
 
 - IQ не замерял
