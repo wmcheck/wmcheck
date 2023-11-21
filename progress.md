@@ -58,11 +58,9 @@
 - интеграция веб приложения с приложением на Android
 
 ### Используемые языки, фреймворки и технологии: 
-Delphi, JavaScript, TypeScript, PHP
-NodeJs
-Apache, Nginx
-MQ Rabbit,
-REST, SOAP
-HTML, XML, JSON, CSS, Vue, ReactJs, Moleculer, Bootstrap, F7, DHTMLX (Sencha), Antd, Git
-MS SQL, MySQL, Postgres
-Photoshop, Corel
+- Delphi, JavaScript, TypeScript, PHP, NodeJs
+- Apache, Nginx
+- MQ Rabbit,
+- REST, SOAP, HTML, XML, JSON, CSS, Vue, ReactJs, Moleculer, Bootstrap, F7, DHTMLX (Sencha), Antd, Git
+- MS SQL, MySQL, Postgres
+- Photoshop, Corel
